@@ -1,2 +1,3 @@
 # hello-world
-GitHub's Hello World tutorial repository
+
+I am new to GitHub but have used git briefly in the near not so distant past.
